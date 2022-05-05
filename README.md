@@ -1,0 +1,2 @@
+# online-class-monitoring-system-using-image-processing
+This attendance management system can be used effectively in online meetings or classes where the number of attendees are huge and taking attendance is a time taking procedure, following traditional methods. With our system using image processing, attendance can be taken automatically on the user end. We used LBP algorithm to identify the images and take attendance with an accuracy of identification up to 80%.
